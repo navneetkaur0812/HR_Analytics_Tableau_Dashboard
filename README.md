@@ -23,3 +23,5 @@ Key Points:
 7. Average Salary by age group (Bar chart)
 
 Software used: Tableau 2024.1
+
+Dashboard link: https://public.tableau.com/app/profile/navneet.kaur1271/viz/HRAnalyticsDashboard_17183510433980/HRAnalyticsDashboard?publish=yes
